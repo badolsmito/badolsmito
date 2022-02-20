@@ -1,6 +1,6 @@
 - 👋 Hi, I’m badols mito
 - 👀 I’m interested in Python, mathematics, finances and algorithmic trading, but also philosophy, religion, history and Christian apologetics
-- 🌱 I’m currently learning Python, C# and apologetics
+- 🌱 I’m currently learning C# and apologetics
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me badols mito#9161 on Discord
 
