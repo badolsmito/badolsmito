@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FISO_C%252B%252B_Logo.svg%2F1822px-ISO_C%252B%252B_Logo.svg.png&sp=1648589973Td3d68fd8a0aac0c13139025a85f741376967e73c17d1f0218827c2ac91a1952a" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FISO_C%252B%252B_Logo.svg%2F1822px-ISO_C%252B%252B_Logo.svg.png&sp=1648589973Td3d68fd8a0aac0c13139025a85f741376967e73c17d1f0218827c2ac91a1952a" alt="cplusplus" width="45" height="61"/> </a> </p>
 
 
 <!---
