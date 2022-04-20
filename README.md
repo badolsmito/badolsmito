@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: **Jesus loves you :)**
 
-
+- Future projects: A personal website made using C++ on the backend.
 
 
 <!---
