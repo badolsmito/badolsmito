@@ -8,7 +8,11 @@
 
 - ⚡ Fun fact: **Jesus loves you :)**
 
-- Future projects: A personal website made using C++ on the backend.
+- Future projects:
+    - Self-hosting services, such as a git server and website (with C++ on the backend)
+    - Learn C++ extensively
+    - Learn Go
+    - Learn Bash
 
 
 <!---
