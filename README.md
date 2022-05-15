@@ -11,7 +11,7 @@
 - Future projects:
     - Self-hosting services, such as a git server and website (with C++ on the backend)
     - Learn C++ extensively
-    - Learn Go
+    - Learn HTTP/2 and RESTful APIs
     - Learn Bash
 
 
