@@ -14,6 +14,7 @@
     - Learn HTTP/2 and RESTful APIs
     - Learn Bash
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badolsmito)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!---
 badolsmito/badolsmito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
